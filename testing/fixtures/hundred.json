@@ -1,0 +1,1336 @@
+[
+  {
+    "model": "chat.message",
+    "pk": 1,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 2,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 3,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 4,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 5,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 6,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 7,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 8,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 9,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 10,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 11,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 12,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 13,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 14,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 15,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 16,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 17,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 18,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 19,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 20,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 21,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 22,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 23,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 24,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 25,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 26,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 27,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 28,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 29,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 30,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 31,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 32,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 33,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 34,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 35,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 36,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 37,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 38,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 39,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 40,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 41,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 42,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 43,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 44,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 45,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 46,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 47,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 48,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 49,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 50,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 51,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 52,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 53,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 54,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 55,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 56,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 57,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 58,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 59,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 60,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 61,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 62,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 63,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 64,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 65,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 66,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 67,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 68,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 69,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 70,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 71,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 72,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 73,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 74,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 75,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 76,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 77,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 78,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 79,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 80,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 81,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 82,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 83,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 84,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 85,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 86,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 87,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 88,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 89,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 90,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 91,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 92,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 93,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 94,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 95,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 96,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 97,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 98,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 99,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "chat.message",
+    "pk": 100,
+    "fields": {
+      "author": 1,
+      "room": "test",
+      "content": "a",
+      "timestamp": "2021-08-13T08:44:19.586Z"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add message",
+      "content_type": 1,
+      "codename": "add_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change message",
+      "content_type": 1,
+      "codename": "change_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete message",
+      "content_type": 1,
+      "codename": "delete_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view message",
+      "content_type": 1,
+      "codename": "view_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 2,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 2,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 2,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 2,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 3,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 3,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 3,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 3,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 4,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 4,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 4,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 4,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 5,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 5,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 5,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 5,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 6,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 6,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 6,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 6,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 7,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 7,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 7,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 7,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$jO26kvphoNUPjuIpDgXCbw$lDTUpG/xP7INW/bmdbf45u6fIaYMo9gEh1MJYYMXa08=",
+      "last_login": "2021-08-13T08:44:08.919Z",
+      "is_superuser": true,
+      "username": "generic",
+      "first_name": "",
+      "last_name": "",
+      "email": "generic@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-08-13T08:44:02.512Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "chat",
+      "model": "message"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "mkk4uxbjhjlpumqrm1tna33bonoaiu9h",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQAP-FsyFCeXr03m8gu-wqVQNJaU_GfzckPeh1ZjJvkWDfSto7r2khcRFKnH4ZQn5yHYIeUO9N5la3dUE5EnnYLudG_Loe7d-gQC9j63I01nIw4EmzvQXSKkwTnANrxegdGNLRekcRHWdkYzEQIHo9MWTx-QLbxjhq:1mESnQ:QzXGrS9IgjVthCWCpuDrSGVn0sCY4_Q5cmMIwB-8hXs",
+      "expire_date": "2021-08-27T08:44:08.973Z"
+    }
+  }
+]

@@ -44,13 +44,15 @@
             }
         </style>
 
-        <script src="{% static '/chat/js/reconnecting-websocket.js' %}"></script>
+        <!--<script src="{% static '/chat/js/reconnecting-websocket.js' %}"></script>-->
         <script>
-            var roomName = {{room_name}}
+            var roomName = {{room_name}};
             var username = {{user_name}};
+            var messages ={{messages}};
+            var start_time = 0;
+            var end_time = 0;
 
-
-            const chatSocket = new ReconnectingWebSocket(
+            const chatSocket = new WebSocket(
                 'ws://'
                 + window.location.host
                 + '/ws/chat/'
@@ -58,25 +60,25 @@
                 + '/'
             );
 
+            (function () {
+                for(let i = messages.length - 1; !(i<0); i--){
+                    createMessage(messages[i]);
+                }
+            })();
+
             chatSocket.onopen = function(e){
-                fetchMessages();
-                
-            }
+
+            } 
 
             chatSocket.onmessage = function(e) {
                 var data = JSON.parse(e.data);
                 if(data['command'] === 'fetch_messages') {
-                console.log(data['messages'][1]['author']);
-                    //for(let i = 0; i<data['messages'].length; i++){
-                    //    createMessage(data['messages'][i]);
-                    //}
                     for(let i = data['messages'].length - 1; !(i<0); i--){
                         createMessage(data['messages'][i]);
                     }
                 }
                 else
                 if(data['command'] === 'new_messages'){
-                    console.log(data['message']['author']);
                     createMessage(data['message']);
                 }
             };

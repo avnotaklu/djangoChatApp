@@ -2,7 +2,9 @@ from django.http import HttpRequest
 from django.utils.safestring import mark_safe
 from django.contrib.auth import get_user_model
 from django.db import models
+from asgiref.sync import sync_to_async
 import json
+from channels.db import database_sync_to_async
 
 
 User = get_user_model()
@@ -20,5 +22,8 @@ class Message(models.Model):
     def __str__(self):
         return self.author.username
     @staticmethod
+    @database_sync_to_async
     def last_10_messages_of_this_room(room_name):
-        return Message.objects.filter(room=room_name).order_by('-timestamp').all()[:10]
+        #return Message.objects.all()
+        return Message.objects.filter(room=room_name).order_by('-timestamp').all()
+        #return Message.objects.filter(room=room_name).order_by('-timestamp').all()
