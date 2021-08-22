@@ -87,9 +87,9 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE'  :'django.db.backends.postgresql_psycopg2',
-        'NAME'    :'ssp',
-        'USER'    :'ssp',
-        'PASSWORD':'hulk123',
+        'NAME'    :'chat_database',
+        'USER'    :'user',
+        'PASSWORD':'user123',
         'HOST'    :'localhost',
         'PORT'    :'',
     }
